@@ -1,3 +1,3 @@
 # ResearchProject
 exp 
-clg type shift ost
+clg type shift ost.
